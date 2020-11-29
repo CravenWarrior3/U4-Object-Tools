@@ -1,6 +1,8 @@
 # U4-Object-Tools
 This repository contains my plugins designed to assist with creating building models for Unturned II.
 
+I've been slacking on keeping things here up-to-date. Currently, I am working on a major update to the plugin that includes a tool that will process data for me. I will update the plugin in this repository and upload the tool to a separate repository once the conversion process is finished.
+
 **Currently Available Tools:**
 - Blender Object Plugin (LTS and latest versions only)
 
